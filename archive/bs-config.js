@@ -1,8 +1,8 @@
 module.exports = {
   port: 8022, //process.env.PORT,
-  files: ['.src/**/*.{html,htm,css,js,ttl}'],
+  files: ['archive/src/**/*.{html,htm,css,js,ttl}'],
   server: {
-    baseDir: ['./src'],
+    baseDir: ['archive/src'],
   },
   ghostMode: false,
   open: false,

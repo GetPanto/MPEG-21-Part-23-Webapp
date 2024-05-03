@@ -1,0 +1,16 @@
+{
+  "name": "smartcontracts-for-media-webapp",
+  "version": "0.5.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run test",
+    "dev": "lite-server",
+    "test": "lite-server"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
